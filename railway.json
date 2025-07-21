@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "DB_CONNECTION": "pgsql",
+      "APP_ENV": "production",
+      "APP_DEBUG": "false",
+      "APP_KEY": "base64:pMqbpcmeOl+mTe38vmLVRXfTSfOCeaoxKlVuLrPrCqc="
+    }
+  }
+}
